@@ -1,0 +1,17 @@
+C:\Users\Yusi_di18\source\repos\ButtonJoke\ButtonJoke\bin\Debug\net6.0-windows\ButtonJoke.exe
+C:\Users\Yusi_di18\source\repos\ButtonJoke\ButtonJoke\bin\Debug\net6.0-windows\ButtonJoke.deps.json
+C:\Users\Yusi_di18\source\repos\ButtonJoke\ButtonJoke\bin\Debug\net6.0-windows\ButtonJoke.runtimeconfig.json
+C:\Users\Yusi_di18\source\repos\ButtonJoke\ButtonJoke\bin\Debug\net6.0-windows\ButtonJoke.dll
+C:\Users\Yusi_di18\source\repos\ButtonJoke\ButtonJoke\bin\Debug\net6.0-windows\ButtonJoke.pdb
+C:\Users\Yusi_di18\source\repos\ButtonJoke\ButtonJoke\obj\Debug\net6.0-windows\ButtonJoke.csproj.AssemblyReference.cache
+C:\Users\Yusi_di18\source\repos\ButtonJoke\ButtonJoke\obj\Debug\net6.0-windows\ButtonJoke.Form1.resources
+C:\Users\Yusi_di18\source\repos\ButtonJoke\ButtonJoke\obj\Debug\net6.0-windows\ButtonJoke.csproj.GenerateResource.cache
+C:\Users\Yusi_di18\source\repos\ButtonJoke\ButtonJoke\obj\Debug\net6.0-windows\ButtonJoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusi_di18\source\repos\ButtonJoke\ButtonJoke\obj\Debug\net6.0-windows\ButtonJoke.AssemblyInfoInputs.cache
+C:\Users\Yusi_di18\source\repos\ButtonJoke\ButtonJoke\obj\Debug\net6.0-windows\ButtonJoke.AssemblyInfo.cs
+C:\Users\Yusi_di18\source\repos\ButtonJoke\ButtonJoke\obj\Debug\net6.0-windows\ButtonJoke.csproj.CoreCompileInputs.cache
+C:\Users\Yusi_di18\source\repos\ButtonJoke\ButtonJoke\obj\Debug\net6.0-windows\ButtonJoke.dll
+C:\Users\Yusi_di18\source\repos\ButtonJoke\ButtonJoke\obj\Debug\net6.0-windows\refint\ButtonJoke.dll
+C:\Users\Yusi_di18\source\repos\ButtonJoke\ButtonJoke\obj\Debug\net6.0-windows\ButtonJoke.pdb
+C:\Users\Yusi_di18\source\repos\ButtonJoke\ButtonJoke\obj\Debug\net6.0-windows\ButtonJoke.genruntimeconfig.cache
+C:\Users\Yusi_di18\source\repos\ButtonJoke\ButtonJoke\obj\Debug\net6.0-windows\ref\ButtonJoke.dll
